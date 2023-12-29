@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konditer.Api", "Konditer.Api.csproj", "{C88BC8B5-021A-418E-B54C-121700418A8B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{44DA01CD-4FC4-45F6-BED9-B38AFD72DE0C} = {44DA01CD-4FC4-45F6-BED9-B38AFD72DE0C}
+		{F310C34E-A3FA-4FA3-8661-1106B6A38DE9} = {F310C34E-A3FA-4FA3-8661-1106B6A38DE9}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konditer.Context", "..\Konditer.Context\Konditer.Context.csproj", "{44DA01CD-4FC4-45F6-BED9-B38AFD72DE0C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F310C34E-A3FA-4FA3-8661-1106B6A38DE9} = {F310C34E-A3FA-4FA3-8661-1106B6A38DE9}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konditer.Context.Contracts", "..\Konditer.Context.Contracts\Konditer.Context.Contracts.csproj", "{F310C34E-A3FA-4FA3-8661-1106B6A38DE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C88BC8B5-021A-418E-B54C-121700418A8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C88BC8B5-021A-418E-B54C-121700418A8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C88BC8B5-021A-418E-B54C-121700418A8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C88BC8B5-021A-418E-B54C-121700418A8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44DA01CD-4FC4-45F6-BED9-B38AFD72DE0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44DA01CD-4FC4-45F6-BED9-B38AFD72DE0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44DA01CD-4FC4-45F6-BED9-B38AFD72DE0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44DA01CD-4FC4-45F6-BED9-B38AFD72DE0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F310C34E-A3FA-4FA3-8661-1106B6A38DE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F310C34E-A3FA-4FA3-8661-1106B6A38DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F310C34E-A3FA-4FA3-8661-1106B6A38DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F310C34E-A3FA-4FA3-8661-1106B6A38DE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {321B5ECF-2690-4036-ADFF-EA54D8A83660}
+	EndGlobalSection
+EndGlobal

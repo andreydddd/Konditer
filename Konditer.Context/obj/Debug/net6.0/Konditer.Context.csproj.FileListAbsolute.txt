@@ -1,0 +1,15 @@
+D:\Repository\Konditer.Context\obj\Debug\net6.0\Konditer.Context.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repository\Konditer.Context\obj\Debug\net6.0\Konditer.Context.AssemblyInfoInputs.cache
+D:\Repository\Konditer.Context\obj\Debug\net6.0\Konditer.Context.AssemblyInfo.cs
+D:\Repository\Konditer.Context\obj\Debug\net6.0\Konditer.Context.csproj.CoreCompileInputs.cache
+D:\Repository\Konditer.Context\bin\Debug\net6.0\Konditer.Context.deps.json
+D:\Repository\Konditer.Context\bin\Debug\net6.0\Konditer.Context.dll
+D:\Repository\Konditer.Context\bin\Debug\net6.0\Konditer.Context.pdb
+D:\Repository\Konditer.Context\bin\Debug\net6.0\Konditer.Context.Contracts.dll
+D:\Repository\Konditer.Context\bin\Debug\net6.0\Konditer.Context.Contracts.pdb
+D:\Repository\Konditer.Context\obj\Debug\net6.0\Konditer.Context.csproj.AssemblyReference.cache
+D:\Repository\Konditer.Context\obj\Debug\net6.0\Konditer.Context.csproj.CopyComplete
+D:\Repository\Konditer.Context\obj\Debug\net6.0\Konditer.Context.dll
+D:\Repository\Konditer.Context\obj\Debug\net6.0\refint\Konditer.Context.dll
+D:\Repository\Konditer.Context\obj\Debug\net6.0\Konditer.Context.pdb
+D:\Repository\Konditer.Context\obj\Debug\net6.0\ref\Konditer.Context.dll

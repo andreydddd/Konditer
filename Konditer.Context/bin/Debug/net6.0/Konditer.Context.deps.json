@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Konditer.Context/1.0.0": {
+        "dependencies": {
+          "Konditer.Context.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "Konditer.Context.dll": {}
+        }
+      },
+      "Konditer.Context.Contracts/1.0.0": {
+        "runtime": {
+          "Konditer.Context.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Konditer.Context/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Konditer.Context.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
