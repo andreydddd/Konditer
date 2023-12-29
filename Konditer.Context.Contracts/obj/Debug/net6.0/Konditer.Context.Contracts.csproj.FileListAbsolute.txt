@@ -1,0 +1,11 @@
+D:\Repository\Konditer.Context.Contracts\obj\Debug\net6.0\Konditer.Context.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repository\Konditer.Context.Contracts\obj\Debug\net6.0\Konditer.Context.Contracts.AssemblyInfoInputs.cache
+D:\Repository\Konditer.Context.Contracts\obj\Debug\net6.0\Konditer.Context.Contracts.AssemblyInfo.cs
+D:\Repository\Konditer.Context.Contracts\obj\Debug\net6.0\Konditer.Context.Contracts.csproj.CoreCompileInputs.cache
+D:\Repository\Konditer.Context.Contracts\bin\Debug\net6.0\Konditer.Context.Contracts.deps.json
+D:\Repository\Konditer.Context.Contracts\bin\Debug\net6.0\Konditer.Context.Contracts.dll
+D:\Repository\Konditer.Context.Contracts\bin\Debug\net6.0\Konditer.Context.Contracts.pdb
+D:\Repository\Konditer.Context.Contracts\obj\Debug\net6.0\Konditer.Context.Contracts.dll
+D:\Repository\Konditer.Context.Contracts\obj\Debug\net6.0\refint\Konditer.Context.Contracts.dll
+D:\Repository\Konditer.Context.Contracts\obj\Debug\net6.0\Konditer.Context.Contracts.pdb
+D:\Repository\Konditer.Context.Contracts\obj\Debug\net6.0\ref\Konditer.Context.Contracts.dll
