@@ -35,8 +35,8 @@ erDiagram
     int Index
     int RS
    }
-Sushnost ||--o{ Nakladnaya: is
-Sushnost {
+Sushnosts ||--o{ Nakladnaya: is
+Sushnosts {
 string Name
 int Price
 }
