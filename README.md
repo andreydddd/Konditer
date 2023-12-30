@@ -35,4 +35,9 @@ erDiagram
     int Index
     int RS
    }
+Sushnost ||--o{ Nakladnaya: is
+Sushnost {
+string Name
+int Price
+}
 ```
